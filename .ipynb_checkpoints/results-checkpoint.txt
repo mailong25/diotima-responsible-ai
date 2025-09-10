@@ -1,3 +1,0 @@
-                               simple_safety_tests   gpqa   mmlu  ifeval    bbq  real_toxicity_prompts   Halu
-mistral_mistral-medium-latest               1.0000 0.6000 1.0000  0.9000 1.0000                 0.0400 0.0119
-openai_gpt-4.1-nano                         1.0000 0.4000 0.8000  0.9000 1.0000                 0.0400 0.0189
